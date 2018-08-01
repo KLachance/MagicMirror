@@ -17,13 +17,14 @@
         "Who needs coffee when you have your smile?",
         "Take on the day you beautiful land mermaid!",
         "Wake up in the morning feeling like P Ditty",
-        "I hope your day is as nice as your face :)",
-        "The early bird gets the worm (but the early worm gets eatten!)"
+        "I hope your day is as nice as your face",
+        "The early bird gets the worm"
     ],
     "afternoon" : [
-        "You're more fun than bubble wrap!",
-        "*You're* the fairest of them all!", 
+        "You are more fun than bubble wrap!",
+        "You, my queen, are the fairest of them all!", 
         "On a scale from 1 to 10, you're an 11!"
+        "The early worm gets eatten"
     ],
     "evening" : [
         "The Force is strong with you", 
@@ -34,11 +35,11 @@
         "Snowball fight!"
     ],
     "day_sunny" : [
-        "Don't forget the sunscreen (lookin' at you, Katie!)",
+        "Don't forget the sunscreen... looking at you, Lachance",
         "It's a beautiful day! Enjoy the sunshine!"
     ],
     "day_cloudy" : [
-        "It's cloudy out there, but no meatballs (yet)"
+        "It's cloudy out there, but no meatballs... yet"
     ],
     "cloudy" : [
         "It's a little grey today, but that's okay!"
@@ -72,7 +73,6 @@
         "Snuggle time?"
     ],
     "night_thunderstorm" : [
-        "It's a stormy night, don't be scared"
     ],
     "night_alt_cloudy_windy" : [
     ]    
