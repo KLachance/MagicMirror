@@ -6,7 +6,7 @@
         "Have you been working out?", 
         "Damn. You're looking good!",
         "There's no place like home",
-        "You're a smart cookie (yum!)",
+        "You're a smart cookie!",
         "You're an awesome friend",
         "You got the moves like Jagger",
         "Looking good!", 
@@ -17,7 +17,7 @@
         "Who needs coffee when you have your smile?",
         "Take on the day you beautiful land mermaid!",
         "Wake up in the morning feeling like P Ditty",
-        "I hope your day is as nice as your face :), "
+        "I hope your day is as nice as your face :)",
         "The early bird gets the worm (but the early worm gets eatten!)"
     ],
     "afternoon" : [
@@ -62,7 +62,6 @@
         "Be on the look out for dementors! EXPECTO PATRONAM"
     ],
     "night_clear": [
-        "Weather forecast for tonight: dark"
     ],
     "night_cloudy" : [
     ],
