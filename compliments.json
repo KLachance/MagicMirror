@@ -27,7 +27,7 @@
         "The Force is strong with you", 
         "Good night, sleep tight, don't let the bed bugs bite!", 
         "See ya on the flip side"
-    ]
+    ],
     "day_sunny" : [
         "Don't forget the sunscreen (lookin' at you, Katie!)",
         "It's a beautiful day! Enjoy the sunshine!"
@@ -39,10 +39,10 @@
         "Don't forget your umbrella!", 
         "Under my umberella, ella, ella, eh, eh, eh", 
         "You're like sunshine on a rainy day"
-    ]
+    ],
     "day_cloudy" : [
         "It's cloudy out there, but no meatballs (yet)"
-    ]
+    ],
     "cloudy" : [
         "It's a little grey today, but that's okay!"
     ],
