@@ -28,14 +28,14 @@
         "Good night, sleep tight, don't let the bed bugs bite!", 
         "See ya on the flip side"
     ]
-    "day_sunny": [
+    "day_sunny" : [
         "Don't forget the sunscreen (lookin' at you, Katie!)",
         "It's a beautiful day! Enjoy the sunshine!"
     ],
-    "snow": [
+    "snow" : [
         "Snowball fight!"
     ],
-    "rain": [
+    "rain" : [
         "Don't forget your umbrella!", 
         "Under my umberella, ella, ella, eh, eh, eh", 
         "You're like sunshine on a rainy day"
@@ -43,20 +43,20 @@
     "day_cloudy" : [
         "It's cloudy out there, but no meatballs (yet)"
     ]
-    "cloudy": [
+    "cloudy" : [
         "It's a little grey today, but that's okay!"
     ],
-    "thunderstorm": [
+    "thunderstorm" : [
         "Look out for lightning!"
     ],
-    "fog": [
+    "fog" : [
         "Be on the look out for dementors! EXPECTO PATRONAM"
     ],
-    "night_rain": [
+    "night_rain" : [
         "It was a dark and stormy night...", 
         "Snuggle time?"
     ],
-    "cloudy_windy": [
+    "cloudy_windy" : [
         "It would be a good fishing day... except for the GD wind!"
     ],
 }
